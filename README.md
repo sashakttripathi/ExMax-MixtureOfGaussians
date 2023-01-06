@@ -7,4 +7,4 @@
  
  
  Data after clustered --
- ![alt text](https://github.com/sashakttripathi/k_means_clustering_algorithm/blob/main/result-random-centroid-assignment-data-1.png?raw=true)
+ ![alt text](https://github.com/sashakttripathi/ExpectationMaximization-MixtureOfGaussians/blob/main/init_2_at_end.png?raw=true)
